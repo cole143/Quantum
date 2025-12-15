@@ -1,0 +1,295 @@
+# US FEDERAL TAX BRACKETS AND TAX INFORMATION
+# Last Updated: November 2025
+# Source: IRS Revenue Procedures 2024-40 and 2025-32
+
+## IMPORTANT NOTES:
+# - The US uses a progressive tax system with marginal tax rates
+# - Income is taxed in brackets - only the portion of income in each bracket is taxed at that rate
+# - These are for FEDERAL income tax only (state taxes vary by state)
+# - Tax year 2024 returns are filed in 2025
+# - Tax year 2025 returns are filed in 2026
+
+## TAX YEAR 2025 (Returns filed in 2026)
+## Effective for income earned in 2025
+
+### 2025 TAX RATES: 10%, 12%, 22%, 24%, 32%, 35%, 37%
+
+### 2025 SINGLE FILERS
+Tax Rate | Taxable Income Range
+10%     | $0 to $11,925
+12%     | $11,925 to $48,475
+22%     | $48,475 to $103,350
+24%     | $103,350 to $197,300
+32%     | $197,300 to $250,525
+35%     | $250,525 to $626,350
+37%     | $626,350 and above
+
+### 2025 MARRIED FILING JOINTLY
+Tax Rate | Taxable Income Range
+10%     | $0 to $23,850
+12%     | $23,850 to $96,950
+22%     | $96,950 to $206,700
+24%     | $206,700 to $394,600
+32%     | $394,600 to $501,050
+35%     | $501,050 to $751,600
+37%     | $751,600 and above
+
+### 2025 MARRIED FILING SEPARATELY
+Tax Rate | Taxable Income Range
+10%     | $0 to $11,925
+12%     | $11,925 to $48,475
+22%     | $48,475 to $103,350
+24%     | $103,350 to $197,300
+32%     | $197,300 to $250,525
+35%     | $250,525 to $375,800
+37%     | $375,800 and above
+
+### 2025 HEAD OF HOUSEHOLD
+Tax Rate | Taxable Income Range
+10%     | $0 to $17,000
+12%     | $17,000 to $64,850
+22%     | $64,850 to $103,350
+24%     | $103,350 to $197,300
+32%     | $197,300 to $250,500
+35%     | $250,500 to $626,350
+37%     | $626,350 and above
+
+### 2025 STANDARD DEDUCTIONS
+Single: $15,000
+Married Filing Jointly: $30,000
+Married Filing Separately: $15,000
+Head of Household: $22,500
+
+Additional Standard Deduction (Age 65+):
+- Single/Head of Household: $2,000
+- Married (per person): $1,600
+
+### 2025 ALTERNATIVE MINIMUM TAX (AMT)
+AMT Rates: 26% and 28%
+AMT Exemption:
+- Single: $88,100
+- Married Filing Jointly: $137,000
+- Married Filing Separately: $68,500
+
+AMT Exemption Phaseout Begins:
+- Single: $626,350
+- Married Filing Jointly: $1,252,700
+- Married Filing Separately: $626,350
+
+28% AMT Rate Applies to AMTI above:
+- All filers: $239,100
+- Married Filing Separately: $119,550
+
+### 2025 LONG-TERM CAPITAL GAINS TAX RATES
+0% Rate: Income up to $48,350 (Single), $96,700 (MFJ), $64,750 (HOH)
+15% Rate: Income from above amounts to $533,400 (Single), $600,050 (MFJ), $566,700 (HOH)
+20% Rate: Income above those thresholds
+
+### 2025 EARNED INCOME TAX CREDIT (EITC)
+Maximum Credits:
+- No children: $649
+- One child: $4,328
+- Two children: $7,152
+- Three or more children: $8,046
+
+### 2025 CHILD TAX CREDIT
+Maximum per child: $2,000
+Refundable portion: $1,700
+
+---
+
+## TAX YEAR 2024 (Returns filed in 2025)
+## For reference and comparison
+
+### 2024 TAX RATES: 10%, 12%, 22%, 24%, 32%, 35%, 37%
+
+### 2024 SINGLE FILERS
+Tax Rate | Taxable Income Range
+10%     | $0 to $11,600
+12%     | $11,600 to $47,150
+22%     | $47,150 to $100,525
+24%     | $100,525 to $191,950
+32%     | $191,950 to $243,725
+35%     | $243,725 to $609,350
+37%     | $609,350 and above
+
+### 2024 MARRIED FILING JOINTLY
+Tax Rate | Taxable Income Range
+10%     | $0 to $23,200
+12%     | $23,200 to $94,300
+22%     | $94,300 to $201,050
+24%     | $201,050 to $383,900
+32%     | $383,900 to $487,450
+35%     | $487,450 to $731,200
+37%     | $731,200 and above
+
+### 2024 MARRIED FILING SEPARATELY
+Tax Rate | Taxable Income Range
+10%     | $0 to $11,600
+12%     | $11,600 to $47,150
+22%     | $47,150 to $100,525
+24%     | $100,525 to $191,950
+32%     | $191,950 to $243,725
+35%     | $243,725 to $365,600
+37%     | $365,600 and above
+
+### 2024 HEAD OF HOUSEHOLD
+Tax Rate | Taxable Income Range
+10%     | $0 to $16,550
+12%     | $16,550 to $63,100
+22%     | $63,100 to $100,500
+24%     | $100,500 to $191,950
+32%     | $191,950 to $243,700
+35%     | $243,700 to $609,350
+37%     | $609,350 and above
+
+### 2024 STANDARD DEDUCTIONS
+Single: $14,600
+Married Filing Jointly: $29,200
+Married Filing Separately: $14,600
+Head of Household: $21,900
+
+Additional Standard Deduction (Age 65+):
+- Single/Head of Household: $1,950
+- Married (per person): $1,550
+
+### 2024 ALTERNATIVE MINIMUM TAX (AMT)
+AMT Rates: 26% and 28%
+AMT Exemption:
+- Single: $85,700
+- Married Filing Jointly: $133,300
+- Married Filing Separately: $66,650
+
+AMT Exemption Phaseout Begins:
+- Single: $609,350
+- Married Filing Jointly: $1,218,700
+- Married Filing Separately: $609,350
+
+### 2024 LONG-TERM CAPITAL GAINS TAX RATES
+0% Rate: Income up to $47,025 (Single), $94,050 (MFJ), $63,000 (HOH)
+15% Rate: Income from above amounts to $518,900 (Single), $583,750 (MFJ), $551,350 (HOH)
+20% Rate: Income above those thresholds
+
+### 2024 EARNED INCOME TAX CREDIT (EITC)
+Maximum Credits:
+- No children: $632
+- One child: $4,213
+- Two children: $6,960
+- Three or more children: $7,830
+
+### 2024 CHILD TAX CREDIT
+Maximum per child: $2,000
+Refundable portion: $1,700
+
+---
+
+## HOW TO CALCULATE FEDERAL INCOME TAX
+
+### Step 1: Calculate Taxable Income
+Taxable Income = Adjusted Gross Income (AGI) - Standard Deduction (or Itemized Deductions)
+
+### Step 2: Apply Progressive Tax Brackets
+Tax is calculated cumulatively through each bracket.
+
+Example for 2025 Single Filer with $75,000 taxable income:
+- First $11,925 at 10% = $1,192.50
+- Next $36,550 ($48,475 - $11,925) at 12% = $4,386.00
+- Next $26,525 ($75,000 - $48,475) at 22% = $5,835.50
+- Total Tax = $11,414.00
+- Effective Tax Rate = 15.2% (even though marginal rate is 22%)
+
+### Step 3: Apply Credits
+Subtract any tax credits from the calculated tax amount.
+
+---
+
+## IMPORTANT TAX CONCEPTS
+
+### MARGINAL TAX RATE
+The rate you pay on your last dollar of income (your highest bracket).
+
+### EFFECTIVE TAX RATE
+Your total tax divided by your total income (usually lower than marginal rate).
+
+### PROGRESSIVE TAX SYSTEM
+Higher income is taxed at higher rates, but only the portion in each bracket is taxed at that bracket's rate.
+
+### TAXABLE INCOME vs GROSS INCOME
+Taxable Income = Gross Income - Deductions (Standard or Itemized)
+Only taxable income is subject to tax brackets.
+
+### PERSONAL EXEMPTIONS
+Personal exemptions were eliminated starting in 2018 under the Tax Cuts and Jobs Act (TCJA).
+Personal exemption amount: $0
+
+---
+
+## ADDITIONAL TAX INFORMATION
+
+### QUALIFIED BUSINESS INCOME DEDUCTION (Section 199A)
+- 20% deduction for pass-through business income
+- Phase-out begins at $197,300 (Single) / $394,600 (MFJ) in 2025
+- Phase-out begins at $191,950 (Single) / $383,900 (MFJ) in 2024
+
+### GIFT TAX ANNUAL EXCLUSION
+- 2025: $19,000 per person
+- 2024: $18,000 per person
+
+### ESTATE TAX EXEMPTION
+- 2025: $13,990,000
+- 2024: $13,610,000
+
+### NET INVESTMENT INCOME TAX (NIIT)
+Additional 3.8% tax on investment income for:
+- Single filers with MAGI over $200,000
+- Married filing jointly with MAGI over $250,000
+
+### MEDICARE SURTAX
+Additional 0.9% Medicare tax on wages over:
+- Single: $200,000
+- Married filing jointly: $250,000
+- Married filing separately: $125,000
+
+---
+
+## RETIREMENT ACCOUNT CONTRIBUTIONS (2025)
+
+### 401(k), 403(b), 457 Plans
+Contribution Limit: $23,500
+Catch-up (Age 50+): $7,500
+Enhanced Catch-up (Age 60-63): $11,250
+
+### Traditional and Roth IRA
+Contribution Limit: $7,000
+Catch-up (Age 50+): $1,000
+
+### HSA (Health Savings Account)
+Individual: $4,300
+Family: $8,550
+Catch-up (Age 55+): $1,000
+
+---
+
+## STATE INCOME TAX NOTES
+- These are FEDERAL tax brackets only
+- Most states have their own income tax systems
+- 9 states have no state income tax: Alaska, Florida, Nevada, New Hampshire, South Dakota, Tennessee, Texas, Washington, Wyoming
+- State tax rates and brackets vary significantly
+
+---
+
+## DATA VALIDATION
+All data sourced from official IRS Revenue Procedures:
+- IRS Revenue Procedure 2024-40 (for 2025 tax year)
+- IRS Revenue Procedure 2023-34 (for 2024 tax year)
+- Tax Foundation official data compilations
+- Current as of November 2025
+
+## USAGE NOTES FOR AI/GPT
+- Always specify which tax year you're calculating for
+- Always ask for filing status before calculating
+- Remember to subtract standard/itemized deductions from gross income before applying brackets
+- Apply brackets progressively (each bracket only taxes the portion of income in that range)
+- Round final calculations to nearest dollar
+- Consider both federal and state taxes when giving comprehensive advice
+- Remind users to consult tax professionals for complex situations
